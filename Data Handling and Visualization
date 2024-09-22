@@ -1,4 +1,11 @@
 
+Weight (kg)	Height (cm)
+60	        170
+65	        175
+70	        168
+72	        180
+75	        178
+
 Sample Code:
 # Load necessary library
 library(ggplot2)
